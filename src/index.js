@@ -10,6 +10,7 @@ const { store, persistLocalStore } = getStore();
 ReactDOM.render(
 	<Provider store={store}>
 		<PersistGate persistor={persistLocalStore}>
+			<div>Check CI/CD</div>
 			<App />
 		</PersistGate>
 	</Provider>
