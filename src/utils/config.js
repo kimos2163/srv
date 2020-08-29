@@ -1,1 +1,1 @@
-export const SERVER_URL = "https://master-7rqtwti-krh6tfuitwu5c.eu-4.platformsh.site/";
+export const SERVER_URL = "https://master-7rqtwti-uxok3jnp7tq62.eu-2.platformsh.site/";
